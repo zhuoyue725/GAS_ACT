@@ -4,6 +4,7 @@ Intermediate
 Saved
 Build
 
+.idea
 .vscode
 .vs
 *.VC.db
@@ -14,3 +15,7 @@ Build
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
