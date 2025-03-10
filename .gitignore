@@ -19,3 +19,9 @@ Build
 
 Plugins/**/Binaries/
 Plugins/**/Intermediate/
+
+Content/ParagonYin
+Content/Girl_GreatSword_AnimSet
+Content/Characters/Mannequins/Meshes
+Content/__ExternalActors__
+Content/__ExternalObjects__
